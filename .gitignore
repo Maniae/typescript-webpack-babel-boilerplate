@@ -1,0 +1,19 @@
+# OSX
+#
+.DS_Store
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+dist/
+\.awcache/
+
+# Visual Studio
+.vscode/
+
+# IntelliJ
+.idea/
